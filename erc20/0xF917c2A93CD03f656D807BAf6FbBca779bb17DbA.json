@@ -1,0 +1,19 @@
+{
+  "symbol": "MS",
+  "address": "0xF917c2A93CD03f656D807BAf6FbBca779bb17DbA",
+  "overview":{
+        "en": "MS is a sub-currency of MR (MobileRadio), and the only way to obtain it is to obtain MR on Uniswap and pledge to produce MS. MS is used as a decentralized protocol for open financial systems, so anyone in the world can make financial loans anytime, anywhere. Defi will establish a transparent, open and fair peer-to-peer financial system through a decentralization agreement to minimize trust risks and make it easier for participants to obtain financing services.",
+        "zh": "MS为MR（MobileRadio）的子货币，唯一获得途径为Uniswap上获取MR并质押产出MS。MS用于开放式金融系统的去中心化协议，因此世界上任何人都可以随时随地进行金融贷款。Defi将通过权力下放协议建立透明，开放和公平的点对点财务系统，以最大程度地降低信任风险，并使参与者更容易获得融资服务。"
+  },
+  "state": " NORMAL",
+  "published_on": "2020-11-22",
+  "initial_price":{
+        "ETH":"0.017040710256803503 ETH",
+        "USD":"10 USD",
+        "BTC":"0.0006594754869382955 BTC"
+  },
+  "links": {
+    "twitter": "https://mobile.twitter.com/RealMobileRadio",
+    "telegram": "https://t.me/Mobile_Radio"
+  }
+}
